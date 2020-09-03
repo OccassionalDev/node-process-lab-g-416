@@ -1,1 +1,1 @@
-module.exports = process.version
+module.exports = version = => (){ process.version }
